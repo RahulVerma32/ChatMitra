@@ -50,8 +50,8 @@ export const signup = async (req, res) => {
 
       try {
         await sendWelcomeEmail(savedUser.email, savedUser.fullName, ENV.CLIENT_URL);
-      } catch (error) {
-        console.error("Failed to send welcome email:", error);
+      } catch (emailError) {
+        console.error("Failed to send welcome email:", emailError);
       }
     } else {
       res.status(400).json({ message: "Invalid user data" });
