@@ -1,7 +1,8 @@
 {
  "name" :"chatmitra",
   "version": "1.0.0",
-  "main": "index.js",
+  "type":"module",
+  "main": "src/server.js",
   "engines": {
     "node": ">=20.0.0"
   },
