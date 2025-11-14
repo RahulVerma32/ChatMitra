@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 <h1 align="center">✨ Full-Stack Chat App  ✨</h1>
 
-=======
-<h1 align="center">✨ Full-Stack Chat App ✨</h1>
->>>>>>> 1c1b8a9bc1ddce78b2b914bbe0ce44303b52b5fb
 Highlights:
 
 - 🔐 Custom JWT Authentication 
@@ -17,10 +13,6 @@ Highlights:
 - 🚦 API Rate-Limiting powered by Arcjet
 - 🎨 Beautiful UI with React, Tailwind CSS & DaisyUI
 - 🧠 Zustand for State Management
-<<<<<<< HEAD
-
-=======
->>>>>>> 1c1b8a9bc1ddce78b2b914bbe0ce44303b52b5fb
 
 ## 🔧 Run the Backend
 
